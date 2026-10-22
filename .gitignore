@@ -1,0 +1,16 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+
+# Generated ingestion output
+data/processed_chunks.jsonl
+
+# ChromaDB database files
+chroma_db/
