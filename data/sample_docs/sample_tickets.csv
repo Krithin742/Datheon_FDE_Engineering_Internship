@@ -1,0 +1,4 @@
+ticket_id,department,priority,description
+T001,IT,High,Employee cannot access company email
+T002,HR,Medium,Update employee address
+T003,IT,Critical,Company network is unavailable
